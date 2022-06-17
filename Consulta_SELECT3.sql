@@ -1,0 +1,2 @@
+SELECT *
+FROM countries,continents,cities,cities_countries_continents
